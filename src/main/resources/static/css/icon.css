@@ -1,0 +1,760 @@
+.upload-icon {
+    background: url(../img/icon/folder.png) no-repeat 0 0 !important;
+}
+
+.login {
+    background-image:url(../img/icon/login.png);
+}
+
+.register {
+    background-image:url(../img/icon/register.png);
+}
+
+.view {
+    background-image:url(../img/icon/view.png);
+}
+
+.update {
+    background-image:url(../img/icon/update.png);
+}
+
+.enclosure {
+    background-image:url(../img/icon/enclosure.png);
+}
+
+.monitor {
+    background-image:url(../img/icon/monitor.png);
+}
+
+.navigation {
+    background-image:url(../img/icon/navigation.png);
+}
+
+.pool_setting {
+    background-image:url(../img/icon/pool_setting.png);
+}
+
+.plus {
+    background-image:url(../img/icon/plus.png);
+}
+
+.minus {
+    background-image:url(../img/icon/minus.png);
+}
+
+.lightstar {
+    background-image:url(../img/icon/lightstar.png);
+}
+
+.darkstar {
+    background-image:url(../img/icon/darkstar.png);
+}
+
+.unsupport {
+    background-image:url(../img/icon/unsupport.png);
+}
+
+.export {
+    background-image:url(../img/icon/export.png);
+}
+
+.import {
+    background-image:url(../img/icon/import.png);
+}
+
+.delete {
+    background-image:url(../img/icon/delete.png);
+}
+
+.pie {
+    background-image:url(../img/icon/pie.png);
+}
+
+.loading {
+    background-image:url(../img/icon/loading.gif);
+}
+
+.switch {
+    background-image:url(../img/icon/switch.png);
+}
+
+.clone {
+    background-image:url(../img/icon/clone.png);
+}
+
+.promote {
+    background-image:url(../img/icon/promote.png);
+}
+
+.quota {
+    background-image:url(../img/icon/quota.png);
+}
+
+.slider {
+    background-image:url(../img/icon/slider.png);
+}
+
+.shares {
+    background-image:url(../img/icon/shares.png);
+}
+
+.key {
+    background-image:url(../img/icon/key.png);
+}
+
+.security {
+    background-image:url(../img/icon/security.png);
+}
+
+.voucher {
+    background-image:url(../img/icon/voucher.png);
+}
+
+.userVoucher {
+    background-image:url(../img/icon/userVoucher.png);
+}
+
+.scopeCode {
+    background-image:url(../img/icon/scopeCode.png);
+}
+
+.lock {
+    background-image:url(../img/icon/lock.png);
+}
+
+.locked {
+    background-image:url(../img/icon/locked.png);
+}
+
+.group-empty {
+    background-image:url(../img/icon/group_empty.png);
+}
+
+.user-locked {
+    background-image:url(../img/icon/offline_user.png);
+}
+
+.rollback {
+    background-image:url(../img/icon/rollback.png);
+}
+
+.clear {
+    background-image:url(../img/icon/clear.png);
+}
+
+.nfs24 {
+    background-image:url(../img/icon24/nfs.png);
+}
+
+.smb24 {
+    background-image:url(../img/icon24/smb.png);
+}
+
+.nfs_mount {
+    background-image:url(../img/icon/nfs_mount.png);
+}
+
+.nfs_unmount {
+    background-image:url(../img/icon/nfs_unmount.png);
+}
+
+.folder_shared_connect {
+    background-image:url(../img/icon32/folder_shared_connect.png);
+}
+
+.scsi_drive {
+    background-image:url(../img/icon/scsi_drive.png);
+}
+
+.scsi_drive32 {
+    background-image:url(../img/icon32/scsi_drive.png);
+}
+
+.save {
+    background-image:url(../img/icon/save.png);
+}
+
+.save32 {
+    background-image:url(../img/icon32/save.png);
+}
+
+.reset {
+    background-image:url(../img/icon/reset.png);
+}
+
+.reset32 {
+    background-image:url(../img/icon32/reset.png);
+}
+
+.reboot {
+    background-image:url(../img/icon/reboot.png);
+}
+
+.reboot32 {
+    background-image:url(../img/icon32/reboot.png);
+}
+
+.shutdown {
+    background-image:url(../img/icon/shutdown.png);
+}
+
+.shutdown32 {
+    background-image:url(../img/icon32/shutdown.png);
+}
+
+.my_computer {
+    background-image:url(../img/icon/my_computer.png);
+}
+
+.my_computer32 {
+    background-image:url(../img/icon32/my_computer.png);
+}
+
+.search {
+    background-image:url(../img/icon/search.png);
+}
+
+.question32 {
+    background-image:url(../img/icon32/icon-question.gif);
+}
+
+.clock32 {
+    background-image:url(../img/icon32/clock.png);
+}
+
+.x-download-icon { background: url(../img/icon/download.png) no-repeat 0 0 !important;
+
+}
+
+.x-reset-icon { background: url(../img/icon/reset.png) no-repeat 0 0 !important;
+
+}
+
+.x-clear-icon { background: url(../img/icon/reset.png) no-repeat 0 0 !important;
+
+}
+
+.x-search-icon { background: url(../img/icon/page_search.png) no-repeat 0 0 !important;
+
+}
+
+.x-add-icon { background: url(../img/icon/add.png) no-repeat 0 0 !important;
+
+}
+
+.x-del-icon { background: url(../img/icon/del.png) no-repeat 0 0 !important;
+
+}
+
+.x-upload-icon { background: url(../img/icon/upload.png) no-repeat 0 0 !important;
+
+}
+
+.x-hostaccess-add-icon { background: url(../img/icon/add.png) no-repeat 0 0 !important;
+
+}
+
+.x-hostaccess-del-icon { background: url(../img/icon/del.png) no-repeat 0 0 !important;
+
+}
+
+.x-hostaccess-save-icon { background: url(../img/icon/save.png) no-repeat 0 0 !important;
+
+}
+
+.x-cifs-save-icon { background: url(../img/icon/save.png) no-repeat 0 0 !important;
+
+}
+
+.x-nfs-save-icon { background: url(../img/icon/save.png) no-repeat 0 0 !important;
+
+}
+
+.x-userquota-add-icon { background: url(../img/icon/add.png) no-repeat 0 0 !important;
+
+}
+
+.x-userquota-del-icon { background: url(../img/icon/del.png) no-repeat 0 0 !important;
+
+}
+
+.x-userquota-edit-icon { background: url(../img/icon/change.png) no-repeat 0 0 !important;
+
+}
+
+.x-groupquota-add-icon { background: url(../img/icon/add.png) no-repeat 0 0 !important;
+
+}
+
+.x-groupquota-del-icon { background: url(../img/icon/del.png) no-repeat 0 0 !important;
+
+}
+
+.x-groupquota-edit-icon { background: url(../img/icon/change.png) no-repeat 0 0 !important;
+
+}
+
+.x-fs-add-icon { background: url(../img/icon/add.png) no-repeat 0 0 !important;
+
+}
+
+.x-fs-del-icon { background: url(../img/icon/del.png) no-repeat 0 0 !important;
+
+}
+
+.x-sd-add-icon { background: url(../img/icon/add.png) no-repeat 0 0 !important;
+
+}
+
+.x-sd-del-icon { background: url(../img/icon/del.png) no-repeat 0 0 !important;
+
+}
+
+.x-snapshot-add-icon { background: url(../img/icon/add.png) no-repeat 0 0 !important;
+
+}
+
+.x-snapshot-del-icon { background: url(../img/icon/del.png) no-repeat 0 0 !important;
+
+}
+
+.x-perm-add-icon { background: url(../img/icon/add.png) no-repeat 0 0 !important;
+
+}
+
+.x-perm-del-icon { background: url(../img/icon/del.png) no-repeat 0 0 !important;
+
+}
+
+.x-perm-edit-icon { background: url(../img/icon/change.png) no-repeat 0 0 !important;
+
+}
+
+.x-idmap-del-icon { background: url(../img/icon/del.png) no-repeat 0 0 !important;
+
+}
+
+.x-license-add-icon { background: url(../img/icon/add.png) no-repeat 0 0 !important;
+
+}
+
+.x-license-del-icon { background: url(../img/icon/del.png) no-repeat 0 0 !important;
+
+}
+
+.x-document-import-icon { background: url(../img/icon/document-import.png) no-repeat 0 0 !important;
+
+}
+
+.x-document-export-icon { background: url(../img/icon/document-export.png) no-repeat 0 0 !important;
+
+}
+
+.x-interface-add-icon { background: url(../img/icon/add.png) no-repeat 0 0 !important;
+
+}
+
+.x-interface-del-icon { background: url(../img/icon/del.png) no-repeat 0 0 !important;
+
+}
+
+.x-interface-rename-icon { background: url(../img/icon/show.png) no-repeat 0 0 !important;
+
+}
+
+.x-interfaceip--edit-icon { background: url(../img/icon/change.png) no-repeat 0 0 !important;
+
+}
+
+.x-interfacedevice-manage-icon { background: url(../img/icon/info.png) no-repeat 0 0 !important;
+
+}
+
+.x-interfacedevice-add-icon { background: url(../img/icon/add.png) no-repeat 0 0 !important;
+
+}
+
+.x-interfacedevice-del-icon { background: url(../img/icon/del.png) no-repeat 0 0 !important;
+
+}
+
+.x-active-icon { background: url(../img/icon/active.png) no-repeat 0 0 !important;
+
+}
+
+.x-unactive-icon { background: url(../img/icon/unactive.png) no-repeat 0 0 !important;
+
+}
+
+.x-computer-icon { background: url(../img/icon/computer.png) no-repeat 0 0 !important;
+
+}
+
+.x-port-icon { background: url(../img/icon/port.png) no-repeat 0 0 !important;
+
+}
+
+.x-file-icon { background: url(../img/icon/file.png) no-repeat 0 0 !important;
+
+}
+
+.x-file-operation-icon { background: url(../img/icon/fileoperation.png) no-repeat 0 0 !important;
+
+}
+
+.x-path-right-icon { background: url(../img/icon/path_right.png) no-repeat 0 0 !important;
+
+}
+
+.x-path-down-icon { background: url(../img/icon/path_down.png) no-repeat 0 0 !important;
+
+}
+
+.x-folder-icon { background: url(../img/icon/folder.png) no-repeat 0 0 !important;
+
+}
+
+.x-personal-repo-icon { background: url(../img/icon/personal_repo.png) no-repeat 0 0 !important;
+
+}
+
+.x-disk-icon { background: url(../img/icon/disk.png) no-repeat 0 0 !important;
+
+}
+
+.x-disk-blink-icon { background: url(../img/icon/disk_blink.gif) no-repeat 0 0 !important;
+
+}
+
+.x-disk-title-icon { background: url(../img/icon/disk.png);
+
+}
+
+.x-disk-blink-title-icon { background: url(../img/icon/disk_blink.gif);
+
+}
+
+.x-pool-icon { background: url(../img/icon/pool.png) no-repeat 0 0 !important;
+
+}
+
+.x-pool-title-icon { background: url(../img/icon/pool.png);
+
+}
+
+.x-pool-error-title-icon { background: url(../img/icon/pool_error.png);
+
+}
+
+.x-pool-blink-title-icon { background: url(../img/icon/pool_blink.gif);
+
+}
+
+.x-pool-add-icon { background: url(../img/icon/pool_add.png) no-repeat 0 0 !important;
+
+}
+
+.x-pool-del-icon { background: url(../img/icon/pool_del.png) no-repeat 0 0 !important;
+
+}
+
+.x-pool-ext-icon { background: url(../img/icon/pool_ext.png) no-repeat 0 0 !important;
+
+}
+
+.x-change-icon { background: url(../img/icon/change.png) no-repeat 0 0 !important;
+
+}
+
+.x-changepwd-icon { background: url(../img/icon/change_pwd.png) no-repeat 0 0 !important;
+
+}
+
+.x-init-icon { background: url(../img/icon/init.png) no-repeat 0 0 !important;
+
+}
+
+.x-stop-icon { background: url(../img/icon/stop.png) no-repeat 0 0 !important;
+
+}
+
+.x-setup-icon { background: url(../img/icon/setup.png) no-repeat 0 0 !important;
+
+}
+
+.x-zpool-import-icon { background: url(../img/icon/pool-import.png) no-repeat 0 0 !important;
+
+}
+
+.x-zpool-export-icon { background: url(../img/icon/pool-export.png) no-repeat 0 0 !important;
+
+}
+
+.x-reboot-icon { background: url(../img/icon/reboot.png) no-repeat 0 0 !important;
+
+}
+
+.x-delall-icon{ background: url(../img/icon/del.png) no-repeat 0 0 !important;
+
+}
+
+.x-lunmask-icon { background: url(../img/icon/lunmask.png) no-repeat 0 0 !important;
+
+}
+
+.x-dbup-icon { background: url(../img/icon/dbup.png) no-repeat 0 0 !important;
+
+}
+
+.x-info-icon { background: url(../img/icon/info.png) no-repeat 0 0 !important;
+
+}
+
+.x-show-icon { background: url(../img/icon/show.png) no-repeat 0 0 !important;
+
+}
+
+.x-monitor-icon { background: url(../img/icon/monitor.png) no-repeat 0 0 !important;
+
+}
+
+.x-navigation-icon { background: url(../img/icon/navigation.png) no-repeat 0 0 !important;
+
+}
+
+.x-promote-icon {
+	background: url(../img/icon/promote.png) no-repeat 0 0 !important;
+}
+
+.x-up-icon { background: url(../img/icon/up.png) no-repeat 0 0 !important;
+
+}
+
+.x-down-icon { background: url(../img/icon/down.png) no-repeat 0 0 !important;
+
+}
+
+.x-left-icon { background: url(../img/icon/left.png) no-repeat 0 0 !important;
+
+}
+
+.x-right-icon { background: url(../img/icon/right.png) no-repeat 0 0 !important;
+
+}
+
+.x-groupadd-icon {
+	background: url(../img/icon/groupadd.png) no-repeat 0 0 !important;
+}
+
+.x-grouprename-icon {
+	background: url(../img/icon/show.png) no-repeat 0 0 !important;
+}
+
+.x-groupsetgid-icon {
+	background: url(../img/icon/change.png) no-repeat 0 0 !important;
+}
+
+.x-groupdel-icon {
+	background: url(../img/icon/groupdel.png) no-repeat 0 0 !important;
+}
+
+.x-groupuserdel-icon {
+	background: url(../img/icon/groupuserdel.png) no-repeat 0 0 !important;
+}
+
+.x-groupuseradd-icon {
+	background: url(../img/icon/groupuseradd.png) no-repeat 0 0 !important;
+}
+
+.x-useradd-icon {
+	background: url(../img/icon/useradd.png) no-repeat 0 0 !important;
+}
+
+.x-userpasswd-icon {
+	background: url(../img/icon/userpasswd.png) no-repeat 0 0 !important;
+}
+
+.x-users-icon {
+	background: url(../img/icon/users.png) no-repeat 0 0 !important;
+}
+
+.x-user-icon {
+	background: url(../img/icon/user.png) no-repeat 0 0 !important;
+}
+
+.x-ext-icon { background: url(../img/icon/ext.png) no-repeat 0 0 !important;
+
+}
+
+.x-addtopool-icon { background: url(../img/icon/addtopool.png) no-repeat 0 0 !important;
+
+}
+
+.x-ui-icon-32 {
+	background-image: url(../img/icon32/system_icon1.png);
+	background-repeat:no-repeat;
+		background-position: 5px 5px;
+}
+
+.x-share-icon-32 {
+	background-image: url(../img/icon32/share.png);
+	background-repeat:no-repeat;
+		background-position: 5px 5px;
+}
+
+
+.x-group-icon-32 {
+	background-image: url(../img/icon32/users_business.png);
+	background-repeat:no-repeat;
+		background-position: 5px 5px;
+}
+
+.x-email-icon-32 {
+	background-image: url(../img/icon32/email.png);
+	background-repeat:no-repeat;
+		background-position: 5px 5px;
+}
+
+.x-net-icon-32 {
+	background-image: url(../img/icon32/network.png);
+	background-repeat:no-repeat;
+	background-position: 5px 5px;
+}
+
+.x-vtl-icon-32 {
+	background-image: url(../img/icon32/system_icon3.png);
+		background-repeat:no-repeat;
+			background-position: 5px 5px;
+}
+
+.x-license-icon-32 {
+	background-image: url(../img/icon32/system_icon6.png);
+		background-repeat:no-repeat;
+			background-position: 5px 5px;
+}
+
+.x-monitor-icon-32 {
+	background-image: url(../img/icon32/system_icon5.png);
+		background-repeat:no-repeat;
+			background-position: 5px 5px;
+}
+
+.x-update-icon-32 {
+	background-image: url(../img/icon32/system_icon7.png);
+	background-repeat:no-repeat;
+	background-position: 5px 5px;
+ 
+}
+
+.x-time-icon-32 {
+	background-image: url(../img/icon32/system_icon4.png);
+	background-repeat:no-repeat;
+	background-position: 5px 5px;
+}
+
+.x-snmp-icon-32 {
+	background-image: url(../img/icon32/system_icon5.png);
+	background-repeat:no-repeat;
+	background-position: 5px 5px;
+}
+
+.x-parallel-icon-32 {
+	background-image: url(../img/icon32/system_icon8.png);
+	background-repeat:no-repeat;
+	background-position: 5px 5px;
+}
+
+.extensive-stop {
+	background-image:url(../img/icon/stop.png);
+}
+.extensive-show {
+	background-image:url(../img/icon/show.png);
+}
+.extensive-add {
+	background-image:url(../img/icon/add.png);
+}
+.extensive-del {
+	background-image:url(../img/icon/del.png);
+}
+.extensive-port {
+	background-image:url(../img/icon/lunmask.png);
+}
+.extensive-setup {
+	background-image:url(../img/setup.png);
+}
+.extensive-info {
+	background-image:url(../img/icon/info.png);
+}
+.extensive-shares {
+	background-image:url(../img/icon/shares.png);
+}
+
+.extensive-quota {
+	background-image:url(../img/icon/quota.png);
+}
+
+.extensive-snapshot {
+	background-image:url(../img/icon/snapshot.ico);
+}
+
+.extensive-rollback {
+	background-image:url(../img/icon/rollback.gif);
+}
+
+.extensive-edit {
+	background-image:url(../img/icon/change.png);
+}
+
+.extensive-clone {
+	background-image:url(../img/icon/clone.png);
+}
+
+.extensive-groupadd {
+	background-image:url(../img/icon/groupadd.png);
+}
+
+.extensive-groupdel {
+	background-image:url(../img/icon/groupdel.png);
+}
+
+.extensive-groupuseradd {
+	background-image:url(../img/icon/groupuseradd.png);
+}
+
+.extensive-groupuserdel {
+	background-image:url(../img/icon/groupuserdel.png);
+}
+
+.extensive-useradd {
+	background-image:url(../img/icon/useradd.png);
+}
+
+.extensive-userpasswd {
+	background-image:url(../img/icon/userpasswd.png);
+}
+
+.extensive-users {
+	background-image:url(../img/icon/users.png);
+}
+
+.icon-folder {
+	background-image:url(../img/folder.png);
+}
+
+.x-monitor-add-icon { background: url(../img/icon/product_add.png) no-repeat 0 0 !important;}
+
+.x-monitor-del-icon { background: url(../img/icon/product_delete.png) no-repeat 0 0 !important;}
+
+.x-monitor-config-icon { background: url(../img/icon/product_edit.png) no-repeat 0 0 !important;}
+
+.x-monitor-scan-icon { background: url(../img/icon/scan.png) no-repeat 0 0 !important;}
+
+.x-monitor-productall-icon { background: url(../img/icon/productAll.ico) no-repeat 0 0 !important;}
+
+.x-monitor-productgroup-icon { background: url(../img/icon/productGroup.ico) no-repeat 0 0 !important;}
+
+.x-monitor-product-icon { background: url(../img/icon/product.ico) no-repeat 0 0 !important;}
+
+.x-tactics-icon { background: url(../img/icon/tactics.png) no-repeat 0 0 !important;}
+
+.x-clock-icon { background: url(../img/icon/clock.png) no-repeat 0 0 !important;}

@@ -1,0 +1,28 @@
+/*截图入册弹出窗*/
+.splitwin{ padding:30px 15px 0 10px; display:none;}
+.splitwintitle{background:orange; color:#fff;padding:8px 30px; font-size:18px;}
+.splitcontent{padding:30px 15px 0 10px; display:none;}
+.splitleft{ float:left; width:602px; margin-right:10px;}
+.splitleft img{width:602px;border:#fff 3px solid; box-shadow:#ccc 0 0 5px;}
+.splitright{ float:right; width:250px;}
+.splitright img{width:250px; display:inline-block; top:0; border:#fff 3px solid; box-shadow:#ccc 0 0 5px;}
+.splitbtnwin{clear:both; padding:10px 15px 30px 0; text-align:right;}
+.splitbtnwin input {
+  background: #FCA400;
+  border: medium none;
+  border-radius: 3px;
+  color: #fff;
+  height: 22px;
+  margin-left: 5px;
+  text-align: center;
+  width: 70px; cursor:pointer;
+}
+.splitinfo{margin-top:20px; border:#fefefe 3px solid; box-shadow:#ccc 0 0 5px; padding:10px 30px 20px 10px; background:url(../img/splitbg.png) no-repeat right bottom;}
+.splitinfo p{ border-bottom:#e8e8e8 1px dotted; line-height:25px;}
+.splitbtnwin input:hover{ background-color: #F86E03;}
+.splitempty{height:100px;}
+.preview-pane .preview-container {
+  width: 250px;
+  height: 170px;
+  overflow: hidden;
+}
