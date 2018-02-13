@@ -8,6 +8,20 @@
  */
 (function($) {
 	'use strict';
+
+    $.prototype.serializeObject = function () {
+        var a, o, h, i, e;
+        a = this.serializeArray();
+        o = {};
+        h = o.hasOwnProperty;
+        for (i = 0; i < a.length; i++) {
+            e = a[i];
+            if (!h.call(o, e.name)) {
+                o[e.name] = e.value;
+            }
+        }
+        return o;
+    }
 	
 	$(document).ajaxComplete(function(event,xhr,options){
 		if (!SureAjax.autoLogin)
@@ -71,8 +85,8 @@
 			autoLogin : true,
 			
 			redirect401 : null,
-			
-			hiddenHttpMethod : true,
+
+        hiddenHttpMethod: false,
 			
 			
 			/**
@@ -161,10 +175,10 @@
 				options.url = processUrl(options.url, {
 					_method : options.type
 				});
-				
-				if (this.hiddenHttpMethod && options.type == 'PUT' || options.type == 'put' || options.type == "delete" || options.type == "DELETE")
-					options.type = 'POST';
-				
+
+                if (this.hiddenHttpMethod && (options.type == 'PUT' || options.type == 'put' || options.type == "delete" || options.type == "DELETE")) {
+                    options.type = 'POST';
+                }
 				$.ajax(options);
 			},
 			
