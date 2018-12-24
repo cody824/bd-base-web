@@ -37,7 +37,18 @@ function SQLExpressionSet(lop, selist) {
 
 }
 
-function SQLException(lop, name, mathM, exp, ignoreC) {
+/**
+ *
+ * @param lop 表达式逻辑关系符，and，or，not
+ * @param name  属性名
+ * @param mathM 匹配方式
+ * @param exp   * 匹配的值
+ *        Object[] 对象数组
+ *        对于matchMode为between和in需要多个值
+ * @param ignoreC
+ * @constructor
+ */
+function SQLExpression(lop, name, mathM, exp, ignoreC) {
     /**
      * 表达式逻辑关系符，and，or，not
      *    连接该表达式时的逻辑关系符号
