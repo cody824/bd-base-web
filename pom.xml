@@ -11,4 +11,19 @@
 	<build>
 		<finalName>bd-base-web</finalName>
 	</build>
+
+	<distributionManagement>
+		<repository>
+			<id>rdc-releases-bd</id>
+			<url>https://repo.rdc.aliyun.com/repository/69750-release-8usEq1/</url>
+		</repository>
+		<snapshotRepository>
+			<id>rdc-snapshots-bd</id>
+			<url>https://repo.rdc.aliyun.com/repository/69750-snapshot-HE1WZw/</url>
+		</snapshotRepository>
+		<site>
+			<id>website</id>
+			<url>file:/home/install/mavensite/${project.artifactId}/${project.version}</url>
+		</site>
+	</distributionManagement>
 </project>
