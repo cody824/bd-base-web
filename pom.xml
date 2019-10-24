@@ -4,7 +4,7 @@
 
 	<groupId>com.noknown</groupId>
 	<artifactId>bd-base-web</artifactId>
-	<version>0.0.2-snapshot</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>bd-base-web</name>
 	<description>静态资源引用</description>
 
